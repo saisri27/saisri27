@@ -1,4 +1,4 @@
-About Me
+
 Hey Everyone!
 Iam Sai Sri Maddirala
 I’m interested in Exploring insights from data, building impactful visualizations, and solving real-world problems through analytics.
